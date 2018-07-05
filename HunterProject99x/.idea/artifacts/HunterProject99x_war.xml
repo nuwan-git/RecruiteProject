@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HunterProject99x:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="HunterProject99x.war">
+      <element id="artifact" artifact-name="HunterProject99x:war exploded" />
+    </root>
+  </artifact>
+</component>
